@@ -1,0 +1,23 @@
+{
+    "name": "cordova-plugin-font-scale",
+    "version": "1.0.0",
+    "description": "Reads the device text-size setting (Android font scale, iOS Dynamic Type) and controls the Android WebView text zoom.",
+    "types": "./types/index.d.ts",
+    "cordova": {
+        "id": "cordova-plugin-font-scale",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios",
+        "accessibility",
+        "font scale",
+        "dynamic type"
+    ],
+    "author": "Prasun Jajodia",
+    "license": "Apache-2.0"
+}
